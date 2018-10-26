@@ -36,8 +36,8 @@
             "sources": [
                 {
                   "type": "archive",
-                  "url": "https://github.com/mdh34/quickDocs/archive/2.2.0.tar.gz",
-                  "sha256": "f78a3816284a089931473baa4bd237bc0cb379ac86199c62cf86fbbade1ded8e"
+                  "url": "https://github.com/mdh34/quickDocs/archive/2.2.4.tar.gz",
+                  "sha256": "aeb40ba282faacfb6cd061867767a287e131e17e54e79ff4d5ab9866172cdf4f"
                 }
             ]
         }
