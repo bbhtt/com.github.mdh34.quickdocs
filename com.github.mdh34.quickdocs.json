@@ -1,9 +1,9 @@
 {
     "app-id": "com.github.mdh34.quickdocs",
     "base": "io.elementary.BaseApp",
-    "base-version": "juno-19.08",
+    "base-version": "juno-21.08",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "3.36",
+    "runtime-version": "42",
     "sdk": "org.gnome.Sdk",
     "command": "com.github.mdh34.quickdocs",
     "finish-args": [
@@ -25,16 +25,16 @@
             "sources": [
                 {
                     "type":"archive",
-                    "url":"https://gitlab.gnome.org/GNOME/devhelp/-/archive/3.34.0/devhelp-3.34.0.tar.gz",
-                    "sha256":"a3fbe7a7e40352d5aa72454fa5752e8616cb6636a7c38df9466384c186f03216"
+                    "url":"https://gitlab.gnome.org/GNOME/devhelp/-/archive/41.2/devhelp-41.2.tar.gz",
+                    "sha256":"2798546427a42484b61733f13d8532f31e5aa0bdff4a22aa1dc8e3085358fc87"
                 }
             ],
             "modules":[{
                 "name": "amtk-5",
                 "sources": [{
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/amtk/5.0/amtk-5.0.1.tar.xz",
-                    "sha256": "2d1cf4a4468655f93c90a2dde2e08b1ea0b3960c0aee04eb206c201d7849de27"
+                    "url": "https://download.gnome.org/sources/amtk/5.5/amtk-5.5.1.tar.xz",
+                    "sha256": "ec896dd017e2c1436852e5e60970fcd0830bd12148d57cc1bdc0d93826bddb9c"
                 }]
             }]
         },
