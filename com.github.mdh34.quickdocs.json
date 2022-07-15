@@ -51,10 +51,6 @@
                 },
                 {
                     "type": "patch",
-                    "path": "libarchive-fixes.patch"
-                },
-                {
-                    "type": "patch",
                     "path": "eos-theme.patch"
                 }
             ]
